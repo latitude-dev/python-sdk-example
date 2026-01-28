@@ -1,7 +1,7 @@
 <h1 align="center">Wikipedia Article Generator</h1>
 
 <div align="center">
-  <img src="assets/vid-wikipedia-creator.gif" width="720" alt="Wikipedia Article Generator – enter a concept and get a streamed Wikipedia-style article" />
+  <img src="assets/vid-wikipedia-generator.gif" width="720" alt="Wikipedia Article Generator – enter a concept and get a streamed Wikipedia-style article" />
 </div>
 
 ## What is this?
